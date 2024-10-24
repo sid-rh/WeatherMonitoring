@@ -4,7 +4,7 @@ This is a weather monitoring system that processes real-time weather data, aggre
 
 ## High Level Design Diagram
 
-![High Level Diagram](https://github.com/sid-rh/WeatherMonitoring/blob/main/RuleEngine.drawio.png)
+![High Level Diagram](https://github.com/sid-rh/WeatherMonitoring/blob/main/HLD.drawio.png)
 
 ## Backend Setup
 
