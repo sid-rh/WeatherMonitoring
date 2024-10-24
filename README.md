@@ -71,6 +71,14 @@ npm install
 Add the following environment variable in your `.env` file:
 - `REACT_APP_BASE_URL`: Set this to the base URL of your backend server, e.g.,`http://localhost:<Backend port number>`.
 
+### 3. Initialize Tailwind
+
+Run the following command to initialize tailwind:
+```bash
+npx tailwindcss init -p
+```
+
+
 ### 3. Run the Frontend
 
 Use the following command to start the frontend application:
