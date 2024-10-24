@@ -2,6 +2,10 @@
 
 This is a weather monitoring system that processes real-time weather data, aggregates, and summarizes it with various endpoints for retrieving current, summary, historical data, and alerts. The system consists of a **Backend** powered by **Node.js** and **Express.js**, and a **Frontend** built using **React**.
 
+## High Level Design Diagram
+
+![High Level Diagram](https://github.com/sid-rh/WeatherMonitoring/blob/main/RuleEngine.drawio)
+
 ## Backend Setup
 
 To get started with the backend, follow the steps below:
